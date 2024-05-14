@@ -1,4 +1,4 @@
-package modules
+package models
 
 import (
 	"github.com/jesbalchiero/bookstore-api/pkg/config"
